@@ -1,5 +1,5 @@
 function Main() {
-  console.log("calling the main function from local")
+  console.log("calling the main function combining local and remote")
 }
 
 Main()
