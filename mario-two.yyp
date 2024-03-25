@@ -29,7 +29,7 @@
     {"id":{"name":"Level_TileSprite","path":"sprites/Level_TileSprite/Level_TileSprite.yy",},},
     {"id":{"name":"Plumber_Sprite","path":"sprites/Plumber_Sprite/Plumber_Sprite.yy",},},
     {"id":{"name":"Config","path":"scripts/Config/Config.yy",},},
-    {"id":{"name":"Config","path":"scripts/Config/TestLocal.yy",},},
+    {"id":{"name":"Config","path":"scripts/Config/TestRemote.yy",},},
     {"id":{"name":"JsonExt","path":"scripts/JsonExt/JsonExt.yy",},},
     {"id":{"name":"Plumber","path":"objects/Plumber/Plumber.yy",},},
     {"id":{"name":"Game","path":"objects/Game/Game.yy",},},
